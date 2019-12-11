@@ -1,6 +1,7 @@
 # Dependencies
 markdown:         kramdown
 highlighter:      rouge
+plugins: [jekyll-paginate]
 
 # Permalinks
 permalink:        pretty
@@ -8,19 +9,19 @@ permalink:        pretty
 # Setup
 title:            Michal Lyskawinski
 tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+description:      "Hi, I'm Michael. I like building things. I am a <a href='http://jekyllrb.com' target='_blank'>Stevens</a> CS graduate and the co-founder and Bellman Labs. Before Arthena I was at Matroid, Planet, Planetary Resources, Facebook, and SEDS."
+url:              http://lyskawinski.com
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
+  name:           'Michal Lyskawinski'
   url:            https://twitter.com/mdo
 
 
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+version:          1.0.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/michalos88/michalos88.github.io
