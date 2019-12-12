@@ -11,7 +11,6 @@ title:            Michal Lyskawinski
 tagline:          'A Jekyll theme'
 description:      "Hi, I'm Michael. I like building things. I am a <a href='http://jekyllrb.com' target='_blank'>Stevens</a> CS graduate and the co-founder and Bellman Labs. Before Arthena I was at Matroid, Planet, Planetary Resources, Facebook, and SEDS."
 url:              http://lyskawinski.com
-baseurl:          /
 
 author:
   name:           'Michal Lyskawinski'
