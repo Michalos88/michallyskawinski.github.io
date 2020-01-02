@@ -7,13 +7,13 @@ permalink:        pretty
 
 # Setup
 title:            Michal Lyskawinski
-tagline:          'A Jekyll theme'
-description:      "Hi, I'm Michael. I like building things. I am a <a href='http://jekyllrb.com' target='_blank'>Stevens</a> CS graduate and the co-founder and Bellman Labs."
-url:              http://lyskawinski.com
+tagline:          "Michal Lyskawinski's website"
+description:      "Hi, I am Michal! I build ML apps to tackle complex problems with a big business impact."
+url:              https://lyskawinski.com
 
 author:
   name:           'Michal Lyskawinski'
-  url:            https://twitter.com/mdo
+  url:            https://twitter.com/michallys
 
 
 # Custom vars

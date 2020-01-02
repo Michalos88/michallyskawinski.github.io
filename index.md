@@ -16,7 +16,7 @@ If you'd like to contact me, just click on one of the icons in the side bar.
 * (9/2/2019) Founded [Bellman Labs](/about) with a mission to demystify machine learning.
 * (9/20/2019) Visited Hawaii for the first time!
 * (5/28/2019) Graduated with Master of Science in Computer Science degree with Highest Honors from [Stevens Institute of Techonology](https://www.stevens.edu/schaefer-school-engineering-science/departments/computer-science/graduate-programs/computer-science-masters-program)
-* (1/26/2019) Started my Data Science Internship with [Homevest](homevest.co) - Real Estate Tech Start-up helping low-income families save up for a down payment for a house.
+* (1/26/2019) Started my Data Science contract with [Homevest (now Up&Up)](homevest.co) - Real Estate Tech Start-up helping low-income families save up for a down payment for a house.
 * (10/7/2018) Won first place out of 17 teams in the [2018 SVC HealthTech Hackathon](https://www.stevens.edu/research-entrepreneurship/stevens-venture-center/about/events/healthtech-hackathon) at Stevens Institute of Technology by working with 4 colleagues to develop a web app empowering therapists with machine learning tools.
 
 <!-- ## Recent Articles & Publications: -->

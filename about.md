@@ -4,57 +4,53 @@ title: About
 ---
 
 Below you can find everything to know about me!
-> In order to have a great life you have to cross a dangerous jungle. You can stay safe where you are and have an ordinary life, or you can risk crossing the jungle to have a terrific life. *- The Principles by Ray Dalio*
+> In order to have a great life, you have to cross a dangerous jungle. You can stay safe where you are and have an ordinary life, or you can risk crossing the jungle to have a terrific life. *- The Principles by Ray Dalio*
 
 
 ### Currently
-Currently, we educate business owners about machine learning, and provide startegy consulting and effectively incorporate them into the existing product.
+I run my consulting business - Bellman labs, helping start-ups decide on the areas of their business and product that machine learning can improve and support their Data Science efforts. I am obsessed with Reinforcement Learning, Deep Learning, and Computer Vision.
 
 
 ### My Story
-* Borned in Poznan, Poland in 1994
-* At 2, started using computer - MS Windows 95, my favurite game was Tetris
+* At 2, started using computer - MS Windows 95, my favorite game was Tetris
 * At 6, started learning English
-* At 12, got a 50cc two-stroke scooter, after few months tuned it with my brother to increase the top speed from 50km/h to 90km/h.(without our parents permission)
-*
-* At 15, visited US for the first time and fell in love with this country
-* At 17, built with my brother in our garage a motorcycle inertial dynometer, then tested to handle power measurements of European Champion's Honda CBR 1000cc at ~300km/h. Still in our home garage... (our neighbors were so happy)
-* At 18, got my first paid programming job, building a website for a store in Poland
-* At 19, moved to US by myself to study Mechanical Engineering at Stevens Institute of Techonology
-* At 22, decided that the Machnical Engineering program is too easy and enrolled in MS in Financial Engineering.
-* At 23,
-* At 24, got married in Long Insland, NY to best human being
-<!-- ### Degrees -->
-<!-- * MS in Computer Science from Stevens Institute of Technology, GPA:3.92, Graduated May 2019 -->
-<!-- * MS in Financial Engineering from Stevens Institute of Technology, GPA: 3.86, 86% Complete, Postponed Complition -->
-<!-- * BE in Mechanical Engineering from Stevens Institute of Technology, GPA: 3.6, Graduated May 2017 -->
+* At 12, got a scooter, after few months tuned the engine with my brother to increase the top speed from 50km/h to 90km/h.(without our parent's permission)
+* At 15, visited the US for the first time and fell in love with this country
+* At 16, started racing in [European Scooter Trophy](https://www.europeanscootertrophy.de/en/)
+* At 17, built with my brother in our garage a motorcycle inertial dynometer, then tested to handle power measurements of track-ready Honda CBR 1000cc at ~300km/h. Still in our home garage... (our neighbors weren't too happy)
+* At 18, got my first paid programming job, building a website for a Interior Architecture store
+* At 19, moved to the US to study Mechanical Engineering at [Stevens Institute of Technology](stevens.edu)
+* At 23, got my first job as a Data Scientist at my friend's start-up [Woofy - AI-Driven Social Media Marketing Platform](hellowoofy.com)
 
-### Courses & MOOCs Completed
+### Completetd Courses & MOOCs
+* [Machine Learning by Andrew Ng (Stanford)](https://www.coursera.org/learn/machine-learning)
+* [Neural Networks and Deep Learning by Andrew Ng (deeplearning.ai)](https://www.coursera.org/account/accomplishments/verify/RSQL6PTPDH7Q)
+* [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization by Andrew Ng (deeplearning.ai)](https://www.coursera.org/account/accomplishments/verify/VH3FJWXHPJXQ)
+* [Natural Language Processing by Dan Jurafsky and Chris Manning (Stanford)](https://www.youtube.com/watch?v=oWsMIW-5xUc&list=PLLssT5z_DsK8HbD2sPcUIDfQ7zmBarMYv)
+* [Introduction to reinforcement learning by David Silver (DeepMind)](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
+* [Practical Deep Learning for Coders, v3 by Jeremy Howard (fast.ai)](https://course.fast.ai/)
+* [Natural Language Processing with Deep Learning by Chris Manning and Richar Socher (Stanford)](https://www.youtube.com/watch?v=OQQ-W_63UgQ)
 
-* Built for [Jekyll](http://jekyllrb.com
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+<!-- ### Favorite Papers -->
+<!-- *  -->
 
-### Favurite Frameworks
+### Favorite Books
+* [Creativity, Inc by Ed Catmull](https://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0812993012)
+* [Shoe Dog by Phil Knight](https://www.amazon.com/dp/1501135929/ref=cm_sw_em_r_mt_dp_U_wQtbEb585M4FD)
+* [Mindset by Carol Dweck](https://www.amazon.com/dp/0345472322/ref=cm_sw_em_r_mt_dp_U_GRtbEbJHCFBW3)
 
-### Faviourite Languages
+### Preferred Languages
 * Python
 * R
 * JavaScript
 * LaTex
 
-### Faviutite Enviorment Setup
-* MacOs
+### Preferred Environment Setup
+* macOS
+* iTerm
 * Vim
-* Oh my zsh
+* tmux
+* Zsh
 
-### Favuirute Papers
-
-### Favuite Books
-
-* Creativity, Inc by Ed..
-* Carol Dweck
-
-
+See my [dotfiles](https://github.com/Michalos88/dotfiles)
 
