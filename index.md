@@ -4,10 +4,10 @@ title: Hello!
 ---
 
 Welcome to my website! Excited to see you here!
-Please feel free to read [about me](/about), or check out my [projects](/projects) or [resume](/resume).
+Please feel free to read [about me](/about), or check out my [blog](/blog) or [resume](/resume).
 If you'd like to contact me, just click on one of the icons in the side bar.
 
-**Currently looking for full-time positions in Data Science or Data Analytics**
+### Currently looking for full-time positions in Data Science or Software Engineering.
 
 ## News:
 * (11/16/2019) Have been selected by [NeurIPS](nips.cc) to host one of their 79 worldwide meetups.

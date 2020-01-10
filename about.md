@@ -21,7 +21,7 @@ I enjoy the high-level product vision discussion as much as leading the implemen
 * At 12, got a scooter, after few months modified the engine with my brother to increase the top speed from 50km/h to 90km/h.(without our parent's permission).
 * At 15, visited the US for the first time and fell in love with this country.
 * At 16, started racing in [European Scooter Trophy](https://www.europeanscootertrophy.de/en/).
-* At 17, built with my brother in our garage a motorcycle inertial dynometer, then tested to handle power measurements of track-ready Honda CBR 1000cc at ~300km/h. Still in our home garage... (our neighbors weren't too happy).
+* At 17, built with my brother in our garage a [motorcycle dyno](https://en.wikipedia.org/wiki/Dynamometer), then tested to handle power measurements of track-ready Honda CBR 1000cc at ~300km/h. Still in our home garage... (our neighbors weren't too happy).
 * At 18, got my first paid programming job, building a website for a Interior Architecture store.
 * At 19, moved to the US to study Mechanical Engineering at [Stevens Institute of Technology](stevens.edu).
 * At 23, got my first job as a Data Scientist at my friend's start-up [Woofy - AI-Driven Social Media Marketing Platform](hellowoofy.com).
@@ -47,7 +47,7 @@ I enjoy the high-level product vision discussion as much as leading the implemen
 * Python
 * R
 * JavaScript
-* C++
+* C/C++
 
 ### Preferred Environment Setup
 * macOS
