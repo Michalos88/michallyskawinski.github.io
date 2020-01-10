@@ -28,7 +28,7 @@ When looking only at the data in the last five years, it seems like there is sea
 <img src="/public/pics/blog/get_lucky/visas_pie.png">
 In the past five years, about 70% of submitted EB-2 applications (315700) were for H1-B visa holders. Making it the most common way to permanent residency in the US. Every year exactly [85,000](https://www.uscis.gov/working-united-states/temporary-workers/h-1b-specialty-occupations-and-fashion-models/h-1b-fiscal-year-fy-2020-cap-season) H1-B visas are granted for six years period, so the count of H1-B visa holders in any year is lower bounded by `6 * 85,000 = 510,000`.
 
-Consequently, this means that in the worst case (assuming maximum possible count of H1-B visas in any year **only 12.3% of work visa holders in 2019 were sponsored for EB-2.**
+Consequently, this means that in the worst case (assuming maximum possible count of H1-B visas in any year) **only 12.3% of work visa holders in 2019 were sponsored for EB-2.**
 
 Interestingly employers very rarely sponsor EB-2s for F-1 students (5.6%). One might think that desperate employers would skip the uncertain H1-B visa lottery and choose a more probable solution like EB-2 (there is no lottery), but unfortunately, that's not the case. **Furthermore, if we assume that only students on OPT are eligible to get sponsored (a conservative case), only 3.6%  were sponsored an EB-2 in 2018.** For perspective, it was more probable to get into [Harvard University](https://college.harvard.edu/admissions/admissions-statistics) this year.
 
