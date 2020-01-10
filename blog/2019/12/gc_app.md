@@ -14,12 +14,11 @@ Given that, It's actually quite hard to find an employer willing to support your
 ### Key Findings:
 1. In 2019 the number of applications went down by 20%.
 2. ~70% of submission was for H1-B visa holders.
-2. In the last five years, 71% of EB-2 applications were approved.
-3. Most of the EB-2 sponsors are located in New York, NY.
-4. The greatest portion of applications is for Software Engineers (15%).
-5. In 2018 only 3.6% of F-1 Students in OPT  were lucky enough to have an employer sponsor a green card for them without getting a work visa first.
-6. The largest green card sponsors are Cognizant, Microsoft, and Intel.
-7. The most successful law firm for EB-2 applications in 2019 was.
+3. In the last five years, 71% of EB-2 applications were approved.
+4. Most of the EB-2 sponsors are located in New York, NY.
+5. The greatest portion of applications is for Software Engineers (15%).
+6. In 2018 only 3.6% of F-1 Students in OPT  were lucky enough to have an employer sponsor a green card for them without getting a work visa first.
+7. The largest green card sponsors are Cognizant, Microsoft, and Intel.
 
 ### What are trends in green card applications?
 <img src="/public/pics/blog/get_lucky/trend_plot.png">
