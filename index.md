@@ -26,3 +26,14 @@ If you'd like to contact me, just click on one of the icons in the side bar.
 * The Principles by Ray Dalio
 * Reinforcement Learning by Richard Sutton et. al.
 * Deep Learning with PyTorch by Eli Stevens et. al.
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-156177553-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-156177553-1');
+</script>
