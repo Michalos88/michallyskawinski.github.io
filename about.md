@@ -22,11 +22,11 @@ I enjoy the high-level product vision discussion as much as leading the implemen
 * At 15, visited the US for the first time and fell in love with this country.
 * At 16, started racing in [European Scooter Trophy](https://www.europeanscootertrophy.de/en/).
 * At 17, built with my brother in our garage a [motorcycle dyno](https://en.wikipedia.org/wiki/Dynamometer), then tested to handle power measurements of track-ready Honda CBR 1000cc at ~300km/h. Still in our home garage... (our neighbors weren't too happy).
-* At 18, got my first paid programming job, building a website for a Interior Architecture store.
+* At 18, got my first paid programming job, building a website for a interior decor store.
 * At 19, moved to the US to study Mechanical Engineering at [Stevens Institute of Technology](stevens.edu).
 * At 23, got my first job as a Data Scientist at my friend's start-up [Woofy - AI-Driven Social Media Marketing Platform](hellowoofy.com).
 
-### Completetd Courses & MOOCs
+### Completed Online Courses & MOOCs
 * [Machine Learning by Andrew Ng (Stanford)](https://www.coursera.org/learn/machine-learning)
 * [Neural Networks and Deep Learning by Andrew Ng (deeplearning.ai)](https://www.coursera.org/account/accomplishments/verify/RSQL6PTPDH7Q)
 * [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization by Andrew Ng (deeplearning.ai)](https://www.coursera.org/account/accomplishments/verify/VH3FJWXHPJXQ)
