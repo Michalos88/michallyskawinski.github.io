@@ -18,6 +18,7 @@ I enjoy the high-level product vision discussion as much as leading the implemen
 ### My Story
 * At 2, started using computer - MS Windows 95, my favorite game was Tetris.
 * At 6, started learning English.
+* At 8, build my first website
 * At 12, got a scooter, after few months modified the engine with my brother to increase the top speed from 50km/h to 90km/h.(without our parent's permission).
 * At 15, visited the US for the first time and fell in love with this country.
 * At 16, started racing in [European Scooter Trophy](https://www.europeanscootertrophy.de/en/).
