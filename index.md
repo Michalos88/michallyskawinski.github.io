@@ -7,9 +7,9 @@ Welcome to my website! Excited to see you here!
 Please feel free to read [about me](/about), or check out my [blog](/blog) or [resume](/resume).
 If you'd like to contact me, just click on one of the icons in the side bar.
 
-### Currently looking for full-time positions in Data Science or Software Engineering.
-
 ## News:
+* (07/12/2020) My paper was published at ICML 2020 [Stochastically Dominant Distributional Reinforcement Learning](https://arxiv.org/abs/1905.07318)
+* (03/01/2020) Joined Rosetta Analytics, to help them build and scale DRL investment platform.
 * (11/16/2019) Have been selected by [NeurIPS](nips.cc) to host one of their 79 worldwide meetups.
 * (11/12/2019) Won a Silver Medal (Top 5%) in [Lyft 3D Object Detection for Autonomous Cars Kaggle commpetiton](https://www.kaggle.com/c/3d-object-detection-for-autonomous-vehicles/leaderboard)
 * (9/30/2019) My paper [Stochastically Dominant Distributional Reinforcement Learning](https://arxiv.org/abs/1905.07318) has been selected for a spotlight presentation at [NuerIPS 2019 Safety and Robustness in Decision Making Workshop](https://sites.google.com/view/neurips19-safe-robust-workshop).
@@ -22,11 +22,8 @@ If you'd like to contact me, just click on one of the icons in the side bar.
 <!-- ## Recent Articles & Publications: -->
 
 ## Currently reading:
-* Deep Learning by Ian Goodfellow et. al.
-* The Principles by Ray Dalio
-* Reinforcement Learning by Richard Sutton et. al.
-* Deep Learning with PyTorch by Eli Stevens et. al.
-
+* Algorithms to Live By - Brian Christian, Tom Griffiths
+* High Performance Python - Ian Ozsvald and Micha Gorelick
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-156177553-1"></script>
