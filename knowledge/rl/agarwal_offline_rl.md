@@ -3,7 +3,7 @@ layout: default
 title: An Optimistic Perspective on Offline Deep Reinforcement Learning
 ---
 <h1 class="page-title">An Optimistic Perspective on Offline Deep Reinforcement Learning</h1>
-
+<span class="post-date">15 Jun 2020</span>
 ## Summary
 * Deep Learning is expressive function approximator that takes advantage of large amounts of data.
 * Most Deep RL agents architectures assume that agent will interact with a simulation, this limits the models to real-life applications. and might require to build a simulator, which might be costly.
