@@ -8,6 +8,8 @@ This is a collection of some resources that I found useful throughout my career 
 * Google Engineering Practices Documentation [(Doc)](https://github.com/google/eng-practices) [(Notes)](/knowledge/software/google_eng_prac)
 * Talking Software Design [(Notes)](/knowledge/software/talking_software_design)
 
+## Reinforcement Learning
+* An Optimistic Perspective on Offline Reinforcement Learning by R. Agarwal et al. [(Paper)](https://arxiv.org/abs/1907.04543)[(Notes)](/knowledge/rl/agarwal_offline_rl)
 <!-- ## Machine Learning -->
 <!-- * Deep Learning by Ian Goodfellow [(Book)]() [(Notes)](/knowledge/ml/goodfellow) -->
 
