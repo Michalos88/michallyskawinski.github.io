@@ -2,7 +2,6 @@
 layout: page
 title: About
 ---
-> In order to have a great life, you have to cross a dangerous jungle. You can stay safe where you are and have an ordinary life, or you can risk crossing the jungle to have a terrific life. *- The Principles by Ray Dalio*
 
 ### Intro
 Hi, I am Michal. I am a Data Scientist, Engineer, and Entrepreneur with experience leading data science at early-stage start-ups and managing $10MM+ technology projects for Fortune 500 companies.
