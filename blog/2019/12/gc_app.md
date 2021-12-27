@@ -120,11 +120,6 @@ New York continues to be the leading source of EB-2 employers in 2019. San Franc
 ### How to improve your chances?
 To have the highest chances for EB-2, if you should be a Software Engineer on H1-B, working at one of the top companies. However, there are a lot of other smaller companies or companies with smaller engineering teams, where you might have equal chances of getting a green card sponsored. Perhaps try finding companies like that in New York, NY, San Francisco, CA or Houston, TX.
 
-### Data & Code
-To get green card application data, I scraped one of the Green Card sponsors database websites (like [immihelp](https://immihelp.com)) using lxml in python. Then analyzed the data with Pandas, numpy, and matplotlib.
-
-I will soon release the code and data.
-
 ### Future work:
 1. Analyze H1-B sponsors
 2. Try to dig deeper in the data
